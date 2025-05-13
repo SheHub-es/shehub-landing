@@ -1,0 +1,101 @@
+{
+  "main_title_combined": "Treballa en projectes reals<br/>amb equips multidisciplinaris",
+  "main_title_combined_mobile": "Treballa en<br/>projectes reals<br/>amb equips multidisciplinaris",
+  "description_combined": "SheHub connecta dones de diversos rols que volen<br/>desenvolupar la seva carrera en la indústria tech, guiades per mentores expertes.",
+  "description_combined_mobile": "SheHub connecta dones de diversos rols<br/>que volen desenvolupar la seva carrera en la indústria tech,<br/>guiades per mentores expertes.",
+  "intro_combined": "Estàs preparada per guanyar experiència en projectes col·laborant<br/>amb equips multidisciplinaris del sector Tech?",
+  "intro_combined_mobile": "Estàs preparada per guanyar experiència en projectes<br/>col·laborant amb equips multidisciplinaris<br/>del sector Tech?",
+
+  "cta": "Unir-me a la llista d'espera",
+
+  "feature_1": "Equips<br/>multidisciplinaris",
+  "feature_2": "Projectes reals",
+  "feature_3": "Mentories",
+  "feature_4": "Networking",
+
+  "form_title": "Unir-me a la llista d'espera",
+
+  "form_subtitle": "Connectem talent tech",
+  "form_name": "Nom",
+  "form_lastname": "Cognom",
+  "form_email": "Email",
+  "form_position": "Rol Desitjat",
+  "form_placeholder_name": "Nom",
+  "form_placeholder_lastname": "Cognom",
+  "form_placeholder_email": "marta@gmail.com",
+  "form_placeholder_position": "Ex: developer, UX Designer",
+  "form_tooltip_position": "Rol en què t’agradaria desenvolupar-te a SheHub. Si t’estàs inscrivint com a mentora, menciona l’àrea en què tens experiència.",
+  "form_checkbox_mentor": "Vull unir-me com a mentora",
+  "form_error_required": "Aquest camp es obligatori",
+  "form_error_email": "Adreça de correu no vàlida",
+
+  "form_cta": "Unir-me a la llista d'espera",
+  "form_disclaimer": "*En registrar-te, acceptes la nostra política de privacitat i termes de servei.",
+
+  "thanks_title": "Gràcies per unir-te!",
+  "thanks_title_mobile": "Gràcies<br/> per unir-te!",
+  "thanks_text_1": "<strong>Rebràs un correu electrònic nostre molt aviat.</strong>",
+  "thanks_text_1_mobile": "<strong>Rebràs un correu electrònic nostre<br/> molt aviat.</strong>",
+  "thanks_text_2": "Revisa la safata de correu brossa si no el veus<br/> en uns minuts!",
+  "thanks_text_2_mobile": "Revisa la safata de correu brossa si<br/> no el veus en uns minuts!",
+  "thanks_text_3": "Segueix-nos a les xarxes socials i comparteix-ho amb la teva comunitat.",
+  "thanks_text_3_mobile": "Segueix-nos a les xarxes socials i <br/>comparteix-ho amb la teva comunitat.",
+
+  "emailCopied": "Correu copiat al porta-retalls",
+  "legal_privacy": "Política de privacitat",
+  "legal_privacy_shehub": "Política de Privacitat de SheHub",
+  "privacy": {
+    "intro": "<strong>Introducció.</strong> SheHub és una comunitat sense ànim de lucre dedicada a donar suport a dones en transició cap al món tecnològic.",
+    "commitment": "El nostre objectiu és oferir un espai segur i de suport on les dones puguin guanyar experiència real, construir confiança i fer el salt definitiu a la indústria tecnològica. A SheHub ens comprometem a protegir la privacitat i la seguretat de les teves dades personals. Aquesta política de privacitat explica com recopilem, utilitzem i protegim la teva informació quan interactues amb la nostra plataforma, participes en projectes col·laboratius, o et connectes amb les nostres mentores i empreses col·laboradores.",
+    "collectedDataTitle": "<strong>Dades Recollides.</strong> Recollim les següents dades personals:",
+    "data": {
+      "name": "Nom",
+      "email": "Correu electrònic",
+      "background": "Antecedents professionals i educatius",
+      "city": "Ciutat de residència",
+      "linkedin": "Perfil de LinkedIn"
+    },
+    "analytics": "També podem recopilar informació sobre l’ús del nostre web mitjançant eines d’anàlisi com Google Analytics.",
+    "purposeTitle": "<strong>Finalitat del Tractament de Dades.</strong> Utilitzem les teves dades personals per a les finalitats següents:",
+    "purpose": {
+      "newsletter": "Enviar newsletters i comunicacions.",
+      "groups": "Participar en grups de treball dins de SheHub.",
+      "sharing": "Compartir el teu nom i correu amb grups i mentores dins de la plataforma."
+    },
+    "legalBase": "<strong>Base Legal pel Tractament de les Dades.</strong> La base legal per tractar les teves dades és el teu <strong>consentiment explícit</strong>. En proporcionar les teves dades personals i participar en grups de treball, ens dones el teu consentiment per utilitzar-les segons aquesta política de privacitat.",
+    "restrictions": "Si decideixes no proporcionar les dades o retirar el teu consentiment, podràs continuar utilitzant la plataforma amb certes restriccions, segons el cas.",
+    "recipientsTitle": "<strong>Destinataris de les Dades.</strong> Compartim les teves dades amb:",
+    "recipients": {
+      "group": "Membres del teu grup de treball.",
+      "mentors": "Mentores de SheHub.",
+      "team": "L’equip de SheHub que gestiona la plataforma."
+    },
+    "userRightsTitle": "<strong>Drets dels Usuaris.</strong> Tens dret a:",
+    "rights": {
+      "access": "Accedir a les teves dades personals.",
+      "rectify": "Rectificar dades incorrectes o incompletes.",
+      "delete": "Sol·licitar l’eliminació de les teves dades quan ja no siguin necessàries o si decideixes tancar el teu perfil a SheHub.",
+      "oppose": "Oposar-te al tractament de les teves dades per a finalitats específiques."
+    },
+    "contact": "Per exercir aquests drets, pots contactar-nos a <a>info@shehub.es</a>.",
+    "security": "<strong>Seguretat de les Dades.</strong> Implementem mesures de seguretat per protegir les teves dades personals davant accessos no autoritzats, pèrdues o alteracions. Utilitzem serveis d’emmagatzematge segurs com Firebase i prenem precaucions raonables per mantenir les teves dades protegides.",
+    "retention": "<strong>Conservació de les Dades.</strong> Conservarem les teves dades mentre el teu perfil estigui actiu o mentre siguin necessàries per als fins recollits. Si decideixes eliminar el perfil o sol·licites l’eliminació de les dades, procedirem a fer-ho de manera immediata.",
+    "transfers": "<strong>Transferències Internacionals de Dades:</strong> Si les teves dades es transfereixen fora de la UE, adoptarem mesures adequades per garantir-ne la protecció segons la legislació vigent."
+  },
+
+  "legal_notice": "Avís legal",
+  "legal": {
+    "title": "Avís Legal",
+    "identificationTitle": "<strong>Identificació del Grup</strong>",
+    "name": "Nom: SheHub",
+    "email": "Correu electrònic: <a>info@shehub.es</a>",
+    "purpose": "<strong>Objectiu del Lloc Web.</strong> El lloc web de SheHub ofereix una plataforma per a professionals que vulguin participar en grups de treball, rebre mentoratge, compartir coneixements i millorar les seves habilitats. També proporcionem recursos i materials per al desenvolupament professional.",
+    "intellectualProperty": "<strong>Propietat Intel·lectual.</strong> Els continguts d’aquest lloc web (textos, imatges, logotips, gràfics, etc.) estan protegits per drets de propietat intel·lectual i són propietat exclusiva de SheHub. No es poden utilitzar ni reproduir sense consentiment previ.",
+    "contentResponsibility": "<strong>Responsabilitat sobre el Contingut.</strong> SheHub no es fa responsable dels danys derivats del mal ús del contingut del web, ni dels enllaços a altres llocs web. L’ús del lloc web és responsabilitat de l’usuari.",
+    "terms": "<strong>Condicions d’Ús.</strong> L’accés i ús del lloc web estan subjectes a les condicions següents:",
+    "term1": "Els usuaris han d’utilitzar el web de manera responsable i no realitzar activitats que puguin perjudicar el seu funcionament.",
+    "term2": "No es permet l’ús del lloc per a activitats il·legals o que incompleixin la legislació vigent.",
+    "cookies": "<strong>Política de Galetes.</strong> Utilitzem galetes per millorar l’experiència de l’usuari i analitzar l’ús del web. Pots gestionar les preferències a través de la configuració del teu navegador.",
+    "law": "<strong>Llei Aplicable i Jurisdicció.</strong> Aquest avís legal es regeix per la legislació espanyola. Qualsevol disputa relacionada amb l’ús d’aquest lloc web serà resolta als jutjats de Barcelona."
+  }
+}

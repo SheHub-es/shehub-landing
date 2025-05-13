@@ -1,0 +1,42 @@
+.language-dropdown-menu {
+  position: absolute;
+  justify-items: center;
+  right: -10px;
+  margin-top: -0.3rem;
+  background-color: var(--background-color);
+  padding: 40px 8px;
+  border-radius: 3rem;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -4px rgba(0, 0, 0, 0.1);
+  z-index: 9999;
+  border: 2px solid var(--neutral-text-color);
+  transition: all 0.2s ease-in-out;
+}
+
+.language-option {
+  cursor: pointer;
+  padding: 0.1rem;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--neutral-text-color);
+  transition: all 0.2s ease-in-out;
+}
+
+.language-option:hover {
+  color: var(--primary-text-color);
+}
+
+.language-option.active {
+  color: var(--primary-text-color);
+}
+
+@media (max-width: 640px) {
+  .language-dropdown-menu {
+    display: flex;
+    right: 50px;
+    margin-top: -3.6rem;
+    padding: 8px 20px;
+    gap: 5px;
+  }
+}
+

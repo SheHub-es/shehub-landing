@@ -1,0 +1,85 @@
+@import "tailwindcss";
+
+@theme  {
+  --heading-text-color: #fff;
+  --heading3-h6-text-color: #ffffffeb;
+  --primary-text-color: #6861ff;
+  --button-text-color: #fff;
+  --background-color: #fff;
+  --background-grid-color: #fafafa33;
+  --button-color: #ff8850;
+  --neutral-text-color: #bebebe;
+  --error-color: #d80a0a;
+
+  --shehub-gradient: linear-gradient(135deg, #9b87f5 0%, #F97316 100%);
+}
+
+html,
+body {
+  margin: 3px 3px;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100%;
+  font-family: "Kanit", sans-serif;
+  letter-spacing: 1px;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+@media (min-width: 1024px) {
+  html,
+  body {
+    margin: 0.6rem;
+  }
+}
+
+
+.banner-background {
+  background-image: url("../assets/images/background.svg");
+  background-size: cover;
+  background-position: top left;
+  background-repeat: no-repeat;
+  min-height: 75vh;
+}
+
+.flex-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  height: auto;
+  display: block;
+}
+
+.message {
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.message.hidden {
+  opacity: 0;
+}
+
+.background-form {
+  background-image: url("../assets/images/background.svg");
+  background-size: cover;
+  background-position: top left;
+  background-repeat: no-repeat;
+}
+
+.primary-hover {
+  transition: all 0.5s;
+}
+
+.primary-hover:hover {
+  color: var(--primary-text-color);
+}
+
+@layer utilities {
+  .font-tooltip {
+    font-family: "Roboto", sans-serif;
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "main_title_combined": "Work on real projects<br/>with multidisciplinary teams",
+  "main_title_combined_mobile": "Work on<br/>real projects<br/>with multidisciplinary teams",
+  "description_combined": "SheHub connects women from diverse roles who want to develop their career<br/>in the tech industry, guided by expert mentors.",
+  "description_combined_mobile": "SheHub connects women from diverse roles<br/>who want to develop their career in the tech industry,<br/>guided by expert mentors.",
+  "intro_combined": "Are you ready to gain experience on projects<br/>by collaborating with multidisciplinary teams in the Tech sector?",
+  "intro_combined_mobile": "Are you ready to gain experience on projects<br/>collaborating with multidisciplinary teams<br/>in the Tech sector?",
+
+  "cta": "Join the waitlist",
+
+  "feature_1": "Cross-functional<br/>Teams",
+  "feature_2": "Real-World Projects",
+  "feature_3": "Mentorships",
+  "feature_4": "Networking",
+
+  "form_title": "Join waitlist",
+
+  "form_subtitle": "Connecting tech talent",
+  "form_name": "First Name",
+  "form_lastname": "Last Name",
+  "form_email": "Email",
+  "form_position": "Desired Role",
+  "form_placeholder_name": "First Name",
+  "form_placeholder_lastname": "Last Name",
+  "form_placeholder_email": "name@email.com",
+  "form_placeholder_position": "E.g.: Developer, UX design...",
+  "form_tooltip_position": " Role you would like to develop within SheHub. If you are registering as a mentor, please mention the area in which you have experience.",
+  "form_checkbox_mentor": "I want to join as a mentor",
+  "form_error_required": "This field is required",
+  "form_error_email": "Invalid email address",
+
+  "form_cta": "Join waiting list",
+  "form_disclaimer": "*By registering, you accept our privacy policy and terms of service.",
+
+  "thanks_title": "Thanks for joining!",
+  "thanks_title_mobile": "Thanks<br/> for joining!",
+  "thanks_text_1": "<strong>You’ll receive an email from us very soon.</strong>",
+  "thanks_text_1_mobile": "<strong>You’ll receive an email from us<br/> very soon.</strong>",
+  "thanks_text_2": "Check your spam folder if you don’t see<br/> it within a few minutes!",
+  "thanks_text_2_mobile": "Check your spam folder if<br/> you don’t see it within a few minutes!",
+  "thanks_text_3": "Follow us on social media and share with your community.",
+  "thanks_text_3_mobile": "Follow us on social media and<br/>share with your community.",
+
+  "emailCopied": "Email copied to clipboard",
+  "legal_privacy": "Privacy policy",
+  "legal_privacy_shehub": "Privacy Policy of SheHub",
+  "privacy": {
+    "intro": "<strong>Introduction.SheHub</strong> is a non-profit community dedicated to supporting women transitioning into the tech world. Our goal is to provide a safe and supportive space where women can gain real experience, build confidence, and take the final leap into the tech industry.",
+    "commitment": "At SheHub, we are committed to protecting your privacy and the security of your personal data. This privacy policy explains how we collect, use, and protect your information when you interact with our platform, participate in our collaborative projects, or connect with our mentors and partner companies that support female tech talent.",
+    "collectedDataTitle": "<strong>Data Collected.</strong> We collect the following personal data:",
+    "data": {
+      "name": "Name",
+      "email": "Email address",
+      "background": "Professional and educational background",
+      "city": "City of residence",
+      "linkedin": "LinkedIn profile"
+    },
+    "analytics": "Additionally, we may collect information about how you use our website through analytics tools such as Google Analytics.",
+    "purposeTitle": "<strong>Purpose of Data Processing.</strong> We use your personal data for the following purposes:",
+    "purpose": {
+      "newsletter": "To send newsletters and communications.",
+      "groups": "To participate in SheHub working groups.",
+      "sharing": "To share your name and email with groups and mentors within the platform."
+    },
+    "legalBase": "<strong>Legal Basis for Data Processing.</strong> The legal basis for processing your data is your <strong>explicit consent</strong>. By providing your personal data and participating in working groups, you give us consent to use your data in accordance with this privacy policy.",
+    "restrictions": "If you choose not to provide your data or withdraw your consent, you may still use the platform with some restrictions, depending on the case.",
+    "recipientsTitle": "<strong>Data Recipients.</strong> We share your data with:",
+    "recipients": {
+      "group": "Members of your working group.",
+      "mentors": "SheHub mentors.",
+      "team": "The SheHub team managing the platform."
+    },
+    "userRightsTitle": "<strong>User Rights.</strong> You have the right to:",
+    "rights": {
+      "access": "Access your personal data.",
+      "rectify": "Correct inaccurate or incomplete data.",
+      "delete": "Request the deletion of your data when no longer needed or if you decide to delete your SheHub profile.",
+      "oppose": "Object to the processing of your data for specific purposes."
+    },
+    "contact": "To exercise these rights, contact us at <a>info@shehub.es</a>.",
+    "security": "<strong>Data Security.</strong> We implement security measures to protect your personal data from unauthorized access, loss, or alteration. We use secure storage services such as Firebase and take reasonable precautions to keep your data safe.",
+    "retention": "<strong>Data Retention.</strong> We will retain your personal data while your profile remains active or as needed for the purposes for which it was collected. If you choose to delete your profile or request deletion of your data, we will proceed with immediate removal.",
+    "transfers": "<strong>International Data Transfers:</strong> If your data is transferred outside the EU, we will take appropriate measures to ensure it is protected in accordance with applicable laws."
+  },
+
+  "legal_notice": "Legal notice",
+  "legal": {
+    "title": "Legal Notice",
+    "identificationTitle": "<strong>Group Identification</strong>",
+    "name": "Name: SheHub",
+    "email": "Email: <a>info@shehub.es</a>",
+    "purpose": "<strong>Purpose of the Website.</strong> The SheHub website offers a platform for professionals to join working groups, receive mentorship, share knowledge, and enhance their skills. We also provide resources and materials related to professional development.",
+    "intellectualProperty": "<strong>Intellectual Property.</strong> The content on this website (texts, images, logos, graphics, etc.) is protected by intellectual property rights and is the exclusive property of SheHub. No content may be used or reproduced without prior consent.",
+    "contentResponsibility": "<strong>Content Liability.</strong> SheHub is not responsible for any damage resulting from misuse of the website content or from links to other websites. Use of the site is the user’s responsibility.",
+    "terms": "<strong>Terms of Use.</strong> Access to and use of this website are subject to the following conditions:",
+    "term1": "Users must use the website responsibly and not engage in activities that could harm its functionality.",
+    "term2": "The website may not be used for illegal activities or those that violate current laws.",
+    "cookies": "<strong>Cookie Policy.</strong> We use cookies to enhance user experience and analyze website usage. You can manage your cookie preferences through your browser settings.",
+    "law": "<strong>Applicable Law and Jurisdiction.</strong> This legal notice is governed by Spanish law. Any dispute related to the use of this website will be resolved in the courts of Barcelona."
+  }
+}

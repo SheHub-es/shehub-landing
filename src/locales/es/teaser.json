@@ -1,0 +1,102 @@
+{
+  "main_title_combined": "Trabaja en proyectos reales<br/>con equipos multidisciplinares",
+  "main_title_combined_mobile": "Trabaja en<br/>proyectos reales<br/> con equipos multidisciplinares",
+  "description_combined": "SheHub conecta a mujeres de diversos roles que quieren<br/> desarrollar su carrera en la industria tech, guiadas por mentoras expertas.",
+  "description_combined_mobile": "SheHub conecta a mujeres de<br/> diversos roles que quieren desarrollar<br/> su carrera en la industria tech,<br/> guiadas por mentoras expertas.",
+  "intro_combined": "¿Estás preparada para ganar experiencia en proyectos colaborando<br/> en equipos multidisciplinares del sector Tech?",
+  "intro_combined_mobile": "¿Estás preparada para ganar experiencia en proyectos colaborando en equipos<br/> multidisciplinares del sector Tech?",
+
+
+  "cta": "Unirme a la lista de espera",
+
+  "feature_1": "Equipos<br/>multidisciplinarios",
+  "feature_2": "Proyectos reales",
+  "feature_3": "Mentorías",
+  "feature_4": "Networking",
+
+  "form_title": "Unirme a la lista de espera",
+
+  "form_subtitle": "Conectamos talento tech",
+  "form_name": "Nombre",
+  "form_lastname": "Apellido",
+  "form_email": "Email",
+  "form_position": "Rol Deseado",
+  "form_placeholder_name": "Nombre",
+  "form_placeholder_lastname": "Apellido",
+  "form_placeholder_email": "marta@gmail.com",
+  "form_placeholder_position": "Ej: Developer, UX Designer, Project Manager",
+  "form_tooltip_position": "Rol en el que te gustaria desarrollarte en SheHub. Si te estas inscribiendo como mentora menciona el área en la que tienes experiencia.",
+  "form_checkbox_mentor": "Quiero unirme como mentora",
+  "form_error_required": "Este campo es obligatorio",
+  "form_error_email": "Email no válido",
+
+  "form_cta": "Unirme a la lista de espera",
+  "form_disclaimer": "*Al registrarte, aceptas nuestra política de privacidad y términos de servicio.",
+
+  "thanks_title": "¡Gracias por unirte!",
+  "thanks_title_mobile": "¡Gracias<br/> por unirte!<br/>",
+  "thanks_text_1": "<strong>Recibirás un email nuestro muy pronto.</strong>",
+  "thanks_text_1_mobile": "<strong>Recibirás un email nuestro<br/> muy pronto.</strong>",
+  "thanks_text_2": "¡Revisa tu bandeja de spam si no lo ves<br/> en unos minutos!",
+  "thanks_text_2_mobile": "¡Revisa tu bandeja de spam si<br/> no lo ves en unos minutos!",
+  "thanks_text_3": "Síguenos en redes sociales y comparte con tu comunidad.",
+  "thanks_text_3_mobile": "Síguenos en redes sociales y <br/>comparte con tu comunidad.",
+
+  "emailCopied": "Correo copiado en el portapapeles",
+  "legal_privacy": "Política de privacidad",
+  "legal_privacy_shehub": "Política de Privacidad de SheHub",
+  "privacy": {
+    "intro": "<strong>Introducción. SheHub</strong> es una comunidad sin ánimo de lucro dedicada a apoyar a mujeres en transición al mundo tech. Nuestro objetivo es ofrecer un espacio seguro y de apoyo donde las mujeres puedan ganar experiencia real, construir confianza y dar el salto definitivo a la industria tecnológica.",
+    "commitment": "Nos comprometemos a proteger la privacidad y la seguridad de tus datos personales. Esta política de privacidad explica cómo recopilamos, usamos y protegemos tu información cuando interactúas con nuestra plataforma, participas en nuestros proyectos colaborativos o te conectas con nuestras mentoras y empresas.",
+    "collectedDataTitle": "<strong>Datos Recogidos.</strong> Recogemos los siguientes datos personales:",
+    "data": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "background": "Antecedentes profesionales y educativos",
+      "city": "Ciudad de residencia",
+      "linkedin": "Perfil de LinkedIn"
+    },
+    "analytics": "Además, podemos recopilar información sobre el uso de nuestra web mediante herramientas de análisis como Google Analytics.",
+    "purposeTitle": "<strong>Finalidad del Tratamiento de los Datos.</strong> Utilizamos los datos personales para los siguientes fines:",
+    "purpose": {
+      "newsletter": "Enviar newsletters y comunicaciones.",
+      "groups": "Participar en grupos de trabajo dentro de SheHub.",
+      "sharing": "Compartir tu nombre y correo electrónico con grupos y mentores dentro de la plataforma."
+    },
+    "legalBase": "<strong>Base Legal para el Tratamiento de los Datos.</strong> La base legal para procesar tus datos es tu <strong>consentimiento explícito</strong>. Al proporcionar tus datos personales y participar en los grupos de trabajo, nos das tu consentimiento para usar tus datos de acuerdo con esta política de privacidad.",
+    "restrictions": "Si decides no proporcionar tus datos o retirar tu consentimiento, podrás seguir utilizando la plataforma con restricciones, según el caso.",
+    "recipientsTitle": "<strong>Destinatarios de los Datos.</strong> Compartimos tus datos con:",
+    "recipients": {
+      "group": "Miembros de tu grupo de trabajo.",
+      "mentors": "Mentores de SheHub.",
+      "team": "El equipo de SheHub que gestiona la plataforma."
+    },
+    "userRightsTitle": "<strong>Derechos de los Usuarios.</strong> Tienes derecho a:",
+    "rights": {
+      "access": "Acceder a tus datos personales.",
+      "rectify": "Rectificar los datos incorrectos o incompletos.",
+      "delete": "Solicitar la eliminación de tus datos cuando ya no sean necesarios o si decides cerrar tu perfil en SheHub.",
+      "oppose": "Oponerte al tratamiento de tus datos para fines específicos."
+    },
+    "contact": "Para ejercer estos derechos, puedes contactarnos a través del correo electrónico <a>info@shehub.es</a>.",
+    "security": "<strong>Seguridad de los Datos.</strong> Implementamos medidas de seguridad para proteger tus datos personales de accesos no autorizados, pérdidas o alteraciones. Utilizamos servicios de almacenamiento seguros, como Firebase, y tomamos precauciones razonables para mantener tus datos protegidos.",
+    "retention": "<strong>Retención de los Datos.</strong> Conservaremos tus datos personales mientras mantengas tu perfil activo o mientras sea necesario para los fines por los cuales se recopilaron. Si decides eliminar tu perfil o solicitar la eliminación de tus datos, procederemos con la eliminación inmediata.",
+    "transfers": "<strong>Transferencias Internacionales de Datos. </strong> Si tus datos se transfieren fuera de la UE, tomaremos medidas adecuadas para garantizar que se protejan conforme a la legislación aplicable."
+  },
+
+  "legal_notice": "Aviso legal",
+  "legal": {
+    "title": "Aviso Legal",
+    "identificationTitle": "<strong>Identificación del Grupo</strong>",
+    "name": "Nombre: SheHub",
+    "email": "Correo electrónico: <a>info@shehub.es</a>",
+    "purpose": "<strong>Objeto del Sitio Web.</strong> El sitio web de SheHub ofrece una plataforma para profesionales que deseen participar en grupos de trabajo, recibir mentoría, compartir conocimientos y mejorar sus habilidades. También proporcionamos recursos y materiales relacionados con el desarrollo profesional.",
+    "intellectualProperty": "<strong>Propiedad Intelectual.</strong> Los contenidos de este sitio web (textos, imágenes, logotipos, gráficos, etc.) están protegidos por derechos de propiedad intelectual y son propiedad exclusiva de SheHub. No se puede utilizar ni reproducir ningún contenido sin el consentimiento previo.",
+    "contentResponsibility": "<strong>Responsabilidad del Contenido.</strong> SheHub no será responsable de los daños que puedan derivarse del mal uso de los contenidos de la web, ni de los enlaces a otros sitios web. El uso de la web es bajo la responsabilidad del usuario.",
+    "terms": "<strong>Condiciones de Uso.</strong> El acceso y uso de este sitio web están sujetos a las siguientes condiciones:",
+    "term1": "Los usuarios deben utilizar la web de manera responsable y no realizar actividades que puedan dañar su funcionamiento.",
+    "term2": "No se permite el uso del sitio para actividades ilegales o que violen la legislación vigente.",
+    "cookies": "<strong>Política de Cookies.</strong> Utilizamos cookies para mejorar la experiencia del usuario y analizar el uso de la web. Puedes gestionar tus preferencias de cookies a través de las opciones de tu navegador.",
+    "law": "<strong>Ley Aplicable y Jurisdicción.</strong> El presente aviso legal se rige por la legislación española. Cualquier disputa relacionada con el uso de este sitio web será resuelta en los tribunales de Barcelona."
+  }
+}

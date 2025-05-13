@@ -1,10 +1,10 @@
-# 💜 SheHub Teaser Page 🧡
+# 💜 SheHub 🧡
 
 Project for SheHub built with React + Vite.
 
 ## 📁 Table of Contents
 
-- [💜 SheHub Teaser Page 🧡](#-shehub-teaser-page-)
+- [💜 SheHub 🧡](#-shehub-)
   - [📁 Table of Contents](#-table-of-contents)
   - [💼 Tech Stack](#-tech-stack)
   - [🛠️ Getting Started / Prerequisites](#️-getting-started--prerequisites)

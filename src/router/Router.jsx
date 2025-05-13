@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router-dom";
 import { TeaserPage } from "@/pages/TeaserPage";
 import { RegisterForm } from "@/pages/RegisterForm";
-import { PATHS } from "@/constants/paths";
+import { PATHS } from "@/constants/paths.js";
 import { ScrollToTop } from "@/router/ScrollToTop";
 import { PrivacyPolicy } from "@/pages/PrivacyPolicy";
 import { LegalNotice } from "@/pages/LegalNotice";

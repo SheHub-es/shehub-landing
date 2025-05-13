@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router-dom";
 import { FormInputs } from "@/components/form/form-inputs/FormInputs";
 import { useState } from "react";
-import { PATHS } from "@/constants/paths";
+import { PATHS } from "@/constants/paths.js";
 import { CloseXButton } from "@/components/close-x-button/CloseXButton";
 import { useTranslation, Trans } from "react-i18next";
 import linkedinBlueIcon from "@/assets/icons/linkedIn-blue.svg";

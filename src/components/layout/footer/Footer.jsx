@@ -1,7 +1,7 @@
 import { useTranslation } from "react-i18next";
 import LanguageSelector from "@/components/layout/language-selector/LanguageSelector";
 import { Link } from "react-router-dom";
-import { PATHS } from "@/constants/paths";
+import { PATHS } from "@/constants/paths.js";
 
 import instagramIcon from "@/assets/icons/instagram.svg";
 import instagramIconHover from "@/assets/icons/instagram-hover.svg";

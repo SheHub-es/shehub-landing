@@ -1,6 +1,6 @@
 import { Button } from "@/components/buttons/Button";
 import { useNavigate } from "react-router-dom";
-import { PATHS } from "@/constants/paths";
+import { PATHS } from "@/constants/paths.js";
 
 export function MainBannerCtaButton({ children }) {
   const navigate = useNavigate();

@@ -1,9 +1,13 @@
 import { Trans, useTranslation } from "react-i18next";
+import { BackButton } from "@/components/buttons/BackButton";
+
+
 export const PrivacyPolicy = () => {
   const { t } = useTranslation();
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8 text-justify">
+      <BackButton />
       <h4 className="text-2xl font-bold mb-4">{t("legal_privacy_shehub")}</h4>
       <p>
         <Trans i18nKey="privacy.intro" />

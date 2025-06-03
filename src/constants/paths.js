@@ -1,7 +1,7 @@
 
 export const PATHS = {
-  teaserPage: "/teaser-page",
-  registerForm: "/register-form",
-  privacyPolicy: "/privacy-policy",
-  legalNotice: "/legal-notice",
+  teaserPage: "/closed-projects/teaser-page",
+  registerForm: "/closed-projects/register-form",
+  privacyPolicy: "/closed-projects/privacy-policy",
+  legalNotice: "/closed-projects/legal-notice",
 };

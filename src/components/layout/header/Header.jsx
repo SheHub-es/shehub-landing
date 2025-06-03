@@ -4,7 +4,7 @@ import LanguageSelector from "@/components/layout/language-selector/LanguageSele
 export function Header() {
   return (
     <header className="relative z-20 border border-[#e9e9e9] rounded-[3rem] px-2 py-4 h-[70px] shadow-md flex items-center justify-center">
-      <a href="/">
+      <a href="https://shehub.es" target="_top" rel="noopener noreferrer">
         <img
           src={logo}
           alt="logo-shehub"

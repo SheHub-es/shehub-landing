@@ -12,7 +12,6 @@ export function TeaserPage() {
     >
       <div className="w-full max-w-[60rem] flex flex-col items-center rounded-[3rem] bg-transparent">
         <header className="text-center w-full">
-          {/* Responsive H1: mobile vs tablet+desktop */}
           <h1
             id="hero-title"
             className="text-[2rem] md:text-6xl font-bold leading-[1.1] text-white mt-6 -tracking-tight"
@@ -25,7 +24,6 @@ export function TeaserPage() {
             </span>
           </h1>
 
-          {/* Responsive description */}
           <p className="mt-8 md:mt-14 text-sm md:text-2xl text-white font-light leading-tight mx-auto">
             <span className="block sm:hidden">
               <Trans i18nKey="description_combined_mobile" />

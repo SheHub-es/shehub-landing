@@ -1,4 +1,5 @@
 // vite.config.js
+// For iframe support with relative assets
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react-swc";
 import svgr from "vite-plugin-svgr";
